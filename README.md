@@ -52,6 +52,8 @@
   <li>Press <b>Ctrl + C</b> to stop the program execution.</li>
 </ul>
 
+# Working:
+[![Watch the video](https://img.youtube.com/vi/ReeccRD21EU/0.jpg)](https://youtu.be/ReeccRD21EU)
 
 <h2>Examples :</h2>
 <p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
