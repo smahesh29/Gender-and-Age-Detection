@@ -86,7 +86,7 @@
     
 <img src="Example/Detecting age and gender man1.png">
 
-    >python detect.py --image man1.jpg
+    >python detect.py --image man2.jpg
     Gender: Male
     Age: 25-32 years
     
