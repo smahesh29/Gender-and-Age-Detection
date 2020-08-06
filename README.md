@@ -106,7 +106,5 @@
 If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
 <ul>
     <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
-    <li><b>G Pay :</b> +919545123305</li>
-    <li><b>PhonePe :</b> +919545123305</li>
     <li><b>UPI ID :</b> maheshusa29@oksbi</li>
 </ul>           
