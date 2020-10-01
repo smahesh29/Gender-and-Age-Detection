@@ -1,4 +1,4 @@
-# Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
+# Gender-and-Age-Detection {An Amazing Website}  <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
 
 <h2><a href="https://pythonista29.stores.instamojo.com/" >Visit Store for more intresting Project</a></h2>
 
@@ -39,6 +39,8 @@
  <h2>Usage :</h2>
  <ul>
   <li>Download my Repository</li>
+  <li> you can download git or zip file</li>
+  <li>if you download zip file then unzip that downloaded file</li>
   <li>Open your Command Prompt or Terminal and change directory to the folder where all the files are present.</li>
   <li><b>Detecting Gender and Age of face in Image</b> Use Command :</li>
   
