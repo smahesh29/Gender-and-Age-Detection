@@ -1,6 +1,5 @@
 # Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
 
-<h2><a href="https://pythonista29.stores.instamojo.com/" >Visit Store for more intresting Project</a></h2>
 
 <h2>Objective :</h2>
 <p>To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture or through webcam.</p>
