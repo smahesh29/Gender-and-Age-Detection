@@ -100,11 +100,4 @@
     Age: 38-43 years
     
 <img src="Example/Detecting age and gender woman1.png">
-    
-# Support :
-If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
-<ul>
-    <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
-    <li><a href="https://imjo.in/XNZDCJ"><b>₹ (INR)</b></a></li>
-    <li><b>UPI ID :</b> maheshusa29@oksbi</li>
-</ul>           
+              
