@@ -1,0 +1,4 @@
+# python version - Python 3.9.12
+
+numpy==1.25.0
+opencv-python==4.8.0.74
